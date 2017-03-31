@@ -4,7 +4,7 @@
 
 ### 1. Geography - Insert Map Plugin
 **Problem**
-- Almost all boards like MSERT have at-least district level syllabus for Geography for 1st to 4th grade. Since it is district level, it needs to be differnt for every district.
+- Almost all boards like MSERT have at-least district level syllabus for Geography for 1st to 4th grade. Since it is district level, it needs to be different for every district.
 - As a teacher, how do I bring some fun to learn maps in easier way?
 - How do I easily create interactive maps?
 
