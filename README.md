@@ -2,7 +2,7 @@
 
 ## Ideas for plugins
 
-### Geography - Insert Map Plugin
+### 1. Geography - Insert Map Plugin
 **Problem**
 - Almost all boards like MSERT have at-least district level syllabus for Geography for 1st to 4th grade. Since it is district level, it needs to be differnt for every district.
 - As a teacher, how do I bring some fun to learn maps in easier way?
@@ -14,6 +14,7 @@
 - This can enable teachers from all over India to create interactive maps for every district. 
 
 **Idea inspired from**
+
 Take a look at this interactive map - you will love it https://rawgit.com/neveldo/jQuery-Mapael/2.1.0/examples/advanced/multiple_legends_plotted_cities.html
 
 **We can either take inspiration from or use these plugins**
